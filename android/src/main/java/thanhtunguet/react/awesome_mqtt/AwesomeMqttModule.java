@@ -115,9 +115,6 @@ public class AwesomeMqttModule extends ReactContextBaseJavaModule {
   }
 
   private void log(@NonNull final String message) {
-    if (!BuildConfig.DEBUG) {
-      return;
-    }
     Log.d(TAG, message);
   }
 
