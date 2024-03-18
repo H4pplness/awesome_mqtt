@@ -1,6 +1,6 @@
 {
   "name": "@dongt2ls/react-native-awesome-mqtt2",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "MQTT Client for React Native",
   "main": "lib/commonjs/index.js",
   "module": "lib/module/index.js",
@@ -25,14 +25,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dongt2ls/react-native-awesome-mqtt.git"
+    "url": "git+https://github.com/DongT2LS/awesome_mqtt.git"
   },
   "author": "dongt2ls",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/thanhtunguet/react-native-awesome-mqtt/issues"
+    "url": "https://github.com/DongT2LS/awesome_mqtt/issues"
   },
-  "homepage": "https://github.com/thanhtunguet/react-native-awesome-mqtt#readme",
+  "homepage": "https://github.com/DongT2LS/awesome_mqtt",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
@@ -147,6 +147,7 @@
     ]
   },
   "directories": {
-    "example": "example"
+    "example": "example",
+    "lib": "lib"
   }
 }
