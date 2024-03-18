@@ -1,6 +1,6 @@
 {
   "name": "@dongt2ls/react-native-awesome-mqtt2",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "MQTT Client for React Native",
   "main": "lib/commonjs/index.js",
   "module": "lib/module/index.js",
